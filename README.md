@@ -6,9 +6,7 @@
 
 <p align="center"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&amp;logo=kali-linux&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="shields"></p>
 
-<h2>🚀 Demo</h2>
 
-[click](click )
 
 <h2>Project Screenshots:</h2>
 
